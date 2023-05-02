@@ -7,7 +7,7 @@ Siga-me: <br/>
 ![bernardovalle GitHub stats](https://github-readme-stats.vercel.app/api?username=bernardovalle&show_icons=true&theme=dark)
 
 
-## Tecnologias que eu uso nos estudos e no meu dia
+## Tecnologias que eu uso nos estudos e no meu dia -
 
 <div style="display: inline_block"><br/>
 <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
